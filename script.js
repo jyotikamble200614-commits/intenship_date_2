@@ -1,0 +1,14 @@
+let num =10;
+let num2 =20;
+let sum = num + num2;
+console.log(sum);
+let sub = num2 - num;
+console.log(num1 = num2 - num);
+let mul = num * num2;
+console.log(num1 = num * num2);
+let div = num2 / num;
+console.log(num1 = num2 / num);
+let mod = num2 % num;
+console.log(num1 = num2 % num);
+let exp = num ** num2;
+console.log(num1 = num ** num2);
